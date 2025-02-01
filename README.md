@@ -3,8 +3,8 @@ This project analyzes a music store database using SQL queries to extract insigh
 Technologies Used----->
 SQL (PostgreSQL)
 Features------------------------------->
-Sales analysis by country and customer
-Top-selling artists and albums
-Revenue trends and insights
-Most popular genres and tracks
+Sales analysis by country and customer,
+Top-selling artists and albums,
+Revenue trends and insights,
+Most popular genres and tracks,
 Customer purchase behavior
